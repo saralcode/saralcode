@@ -7,9 +7,7 @@
 </div>
 
 <br clear="both">
-<div>
-<img src="https://raw.githubusercontent.com/saralcode/saralcode/output/snake.svg" alt="Snake animation" />
-</div>
+![saralcode contributions](https://github.com/saralcode/saralcode/blob/output/github-contribution-grid-snake.gif)
 
 - 🔭 I’m currently working on [A College Website](https://dspmu.saralcode.com)
 
