@@ -7,13 +7,13 @@
 </div>
 
 
-- 🔭 I’m currently working on [College Website](https://dspmu.saralcode.com)
+- 🔭 I’m currently working on [PayerVault](https://merchant.payervault.com)
 
 - 📝 I regularly write articles on [www.saralcode.com](https://www.saralcode.com/tutorials)
 
-- 💬 Ask me about **NextJS, Flutter, Firebase, MongoDB, etc.**
+- 💬 Ask me about **ReactJS, NextJS, Tailwind CSS, Flutter, Firebase, MongoDB, etc.**
 
-- 📫 How to reach me **sonukumarrasda@gmail.com**
+- 📫 How to reach me **sonu.kr1771@gmail.com**
 
 
 <h2 align="left">Connect with me👋</h2>
@@ -103,8 +103,6 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="vscode logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
