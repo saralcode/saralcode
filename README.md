@@ -7,8 +7,6 @@
 </div>
 
 
-- 🔭 I’m currently working on [PayerVault](https://merchant.payervault.com)
-
 - 📝 I regularly write articles on [www.saralcode.com](https://www.saralcode.com/tutorials)
 
 - 💬 Ask me about **ReactJS, NextJS, Tailwind CSS, Flutter, Firebase, MongoDB, etc.**
